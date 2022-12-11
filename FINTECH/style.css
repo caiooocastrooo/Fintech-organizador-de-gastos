@@ -1,0 +1,29 @@
+body {background: blue}
+
+#logo {margin-left: 43%;
+    margin-top: 25px;
+    width: 200px;
+    height: 200px;
+    
+}
+
+h1 {text-align:center; color: aqua}
+
+#marc {font-size: 20px}
+
+p{text-align: center;color:aqua}
+
+.box1 {
+    color: white;
+    font-family: Arial;
+    width: 200px;
+    text-align: center;
+}
+
+.box{
+    color: black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 10px;
+    border-radius: 5px;
+}

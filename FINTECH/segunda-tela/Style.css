@@ -1,0 +1,40 @@
+body {background: blue;} 
+
+
+.box1 {margin-top: 200px;
+
+     color: antiquewhite;
+
+      text-align: center;
+
+      width: 200px;
+
+      font-family: Arial;
+
+      margin-bottom: 100px;
+
+      padding: 10px;
+
+      border-radius: 5px;
+
+      margin-left: 42%;
+
+      font-size: 20px;
+
+      
+      
+    }
+
+.box {width: 180px;
+
+    font-size: larger;
+
+    margin-bottom: 20px;
+
+    border-radius: 10px;
+
+    
+}
+
+ 
+
